@@ -22,7 +22,7 @@
 ## La base de données apès les modifications
 ![swagger](./assets/img20.png)
 
-##### Mobile
+# Mobile
 ### Première page
 ![first](./assets/img1.png)
 
@@ -52,11 +52,11 @@
 ### Page gestion rôles
 ![filiere](./assets/img11.png)
 
-# Cette page a les mêmes fonctionnalités d'ajouter, supprimer et modifier que la page de gestion filières
+##### Cette page a les mêmes fonctionnalités d'ajouter, supprimer et modifier que la page de gestion filières
 
 ### Page gestion étudiants
 ![filiere](./assets/img12.png)
 
-# Cette page a les mêmes fonctionnalités d'ajouter, supprimer et modifier que la page de gestion filières
+##### Cette page a les mêmes fonctionnalités d'ajouter, supprimer et modifier que la page de gestion filières
 
 
