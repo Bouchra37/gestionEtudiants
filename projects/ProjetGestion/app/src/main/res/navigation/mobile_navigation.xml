@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ma.projet.projetgestion.ui.home.FiliereFragment"
+        android:label="Filières"
+        tools:layout="@layout/fragment_filiere" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="ma.projet.projetgestion.ui.gallery.RoleFragment"
+        android:label="Rôles"
+        tools:layout="@layout/fragment_role" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="ma.projet.projetgestion.ui.slideshow.EtudiantFragment"
+        android:label="Etudiants"
+        tools:layout="@layout/fragment_etudiant" />
+</navigation>
